@@ -1,6 +1,6 @@
 # next-image-route
 
-Reproduction of an error when importing an image to a route that returns `ImageResponse`.
+Example of using Next.js to serve images from a route using the Node.js runtime.
 
 ## Development
 
